@@ -1,4 +1,4 @@
-# SmpleStorage_Contract
+# SimpleStorage_Contract
 This repository contains three Solidity smart contracts: SimpleStorage, StorageFactory, and AddThree. These contracts demonstrate basic storage functionalities, inheritance, and interaction between contracts.
 
 # Contracts
